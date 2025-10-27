@@ -1,0 +1,14 @@
+{
+  "quiz": [
+    {
+      "question": "Who founded Wikipedia?",
+      "options": ["Larry Page", "Jimmy Wales", "Elon Musk", "Bill Gates"],
+      "answer": "Jimmy Wales"
+    },
+    {
+      "question": "When was Wikipedia launched?",
+      "options": ["1998", "2000", "2001", "2003"],
+      "answer": "2001"
+    }
+  ]
+}
